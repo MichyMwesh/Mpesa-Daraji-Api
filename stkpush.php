@@ -46,6 +46,7 @@ echo $curl_response = curl_exec($curl);
 $data = json_decode($curl_response);
 $CheckoutRequestID = $data->CheckoutRequestID;
 $ResponseCode = $data->ResponseCode;
+
 if ($ResponseCode == "0") {
   echo "The CheckoutRequestID for this transaction is : " . $CheckoutRequestID;
 }
