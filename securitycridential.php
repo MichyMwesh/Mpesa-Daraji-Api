@@ -38,4 +38,4 @@ k1BfG7P3pXnsPAzu199UZnqhEF+y/0/nNpf3ftHZjfX6Ws+dQuLoDN6pIl8qmok9
 9E/EAgL1zOIzFvCRYlnjKdnsuqL1sIYFBlv3oxo6W1O+X9IZ
 -----END CERTIFICATE-----";
 openssl_public_encrypt($pass, $encrypted, $publicKey, OPENSSL_PKCS1_PADDING);
-$SecurityCredential = base64_encode($encrypted);
+ $SecurityCredential = base64_encode($encrypted);

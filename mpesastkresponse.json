@@ -34,22 +34,22 @@
           "Item": [
             {
               "Name": "Amount",
-              "Value": 1.00
+              "Value": 
             },
             {
               "Name": "MpesaReceiptNumber",
-              "Value": "RGP6CZDYG6"
+              "Value": ""
             },
             {
               "Name": "Balance"
             },
             {
               "Name": "TransactionDate",
-              "Value": 20230725013147
+              "Value": 
             },
             {
               "Name": "PhoneNumber",
-              "Value": 254723547186
+              "Value": 
             }
           ]
         }

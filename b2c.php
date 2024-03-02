@@ -7,7 +7,7 @@ $pass = "Safaricom999!*!";
 $BusinessShortCode = "600999";
 $phone = "254708374149";
 $amountsend = '1';
-//$SecurityCredential ='D4cg+haY3L0VQb7fsL6HIw02fHd+qtEHQq61pq8ytdU8gX5DpW34ahjYJuFRPgzPKm7EPnG440fzXs8/QiZro+iadunS3p7wDdN/IqPWVd7ErtnvfsBWURU/YCPgnNvyvMapdjkV2aYKpJcxgn6NtxIiSc5gbBY7qAqvMmRqr0TcNTKELMyEIqn/kmZUtm1TJVZQSYE4Gnq937srxtzNMUqafrxtOPqqU0vjGlTyFcEXMHuRbvgvHFOM3sVYl+k7ABbszNMkSixG4K6LmBedxI1Rz/7X8HrZPJawdJ0vJw3f1AbtiUGBl/A8uV33oKQsRC2j208tmz62ZptyI5z6MQ==';
+//$SecurityCredential ='PNjRJokY3TvoPlerXTM1t1gGJsSVpfQVaOtpSQ6XRoTxCGa7OaW5Io9xKWPDs+8Q/PKspUL5AsBMRJOo+1gviBKbLvnUyntZlcWaHV34mZs65OTXUM9Xk0X/Ji2E7yLCTOiXmJUlDdvXHjIezipkxCwXu93gHcYQINqAzSz6JhVx/jLV94iDIvb/XHT4NsLltCYcgclVXaAmx1M5aGobYpkjmaUDiKTPX0FHJmWlEBgmeD/OpTbhiDevAE4WMPQyRMBt7H62RYvMErBPJcdNBK5jvtDd6Q5iWMkVoujSbjD8qaN/GDZWpfp9s1C1iFr50I0BP+nGWv3Y1r30v3W92w==';
 $CommandID = 'SalaryPayment'; // SalaryPayment, BusinessPayment, PromotionPayment
 $Amount = $amountsend;
 $PartyA = $BusinessShortCode;
